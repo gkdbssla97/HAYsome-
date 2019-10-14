@@ -1,7 +1,3 @@
-git hub 복습
-git add review.txt
-git commit -m "hungry"
-git push 
-
-이렇게만 하면 끝인가?
+홍빈이형 공부하시는 옆모습이 아주 섹시하네요..ㅋㅋ
+잘생깄누 ㅋㅋㅋㅋ
 
